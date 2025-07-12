@@ -1,1 +1,1 @@
-# .github
+# Hatch Community
